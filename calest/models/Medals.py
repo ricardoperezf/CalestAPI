@@ -15,9 +15,9 @@ class Medal:
         return self.vector
 
     def get_medals_gender(self):
-        array = pandas.DataFrame(self.csv_file.EventGender.value_counts())
+        array = pandas.DataFrame(self.csv_file.Event_Gender.value_counts())
         for key, value in array.iterrows():
-            self.vector.append({'gender': str(key), 'count': int(value['Event gender'])})
+            self.vector.append({'gender': str(key), 'count': int(value['Event_gender'])})
         return self.vector
 
     def get_medals_city(self):
