@@ -33,4 +33,4 @@ def getPlotCSV():
                  "attachment; filename=medals.csv"})
 
 
-app.run(debug=True)
+calest_app.run(debug=True)
