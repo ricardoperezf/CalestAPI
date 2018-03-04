@@ -6,7 +6,8 @@ from ..models.Medals import Medal
 
 @calest_app.route('/discipline', methods=["POST"])
 def post_discipline():
-    csv_file = pandas.read_csv('/home/virtualizacion/CalestAPIr/CalestAPI/calest/data/medals.csv')
+    csv_received = request.files['file']
+    csv_file = pandas.read_csv(csv_received)
     result = Medal(csv_file).get_medals_discipline()
     return jsonify(result), 201
 
