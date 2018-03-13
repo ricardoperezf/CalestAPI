@@ -1,0 +1,371 @@
+Year,City,Sport,Discipline,NOC,Event,Gender,Medal
+1980,Lake Placid,Luge,Luge,AUT,doubles,X,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,M,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,M,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,W,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze
+1980,Lake Placid,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Silver
+1980,Lake Placid,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Gold
+1980,Lake Placid,Skiing,Cross Country S,BUL,30km mass start,M,Bronze
+1980,Lake Placid,Skating,Speed skating,CAN,1000m,M,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,CAN,downhill,M,Bronze
+1980,Lake Placid,Skiing,Cross Country S,FIN,10km,W,Bronze
+1980,Lake Placid,Skiing,Cross Country S,FIN,10km,W,Silver
+1980,Lake Placid,Skiing,Cross Country S,FIN,15km,M,Silver
+1980,Lake Placid,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze
+1980,Lake Placid,Skiing,Cross Country S,FIN,50km,M,Silver
+1980,Lake Placid,Skiing,Cross Country S,FIN,5km,W,Silver
+1980,Lake Placid,Skiing,Nordic Combined,FIN,individual,M,Silver
+1980,Lake Placid,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Bronze
+1980,Lake Placid,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,FRA,giant slalom,W,Bronze
+1980,Lake Placid,Biathlon,Biathlon,FRG,4x7.5km relay,M,Bronze
+1980,Lake Placid,Luge,Luge,FRG,singles,M,Bronze
+1980,Lake Placid,Skating,Figure skating,FRG,individual,W,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,FRG,giant slalom,W,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,FRG,slalom,W,Silver
+1980,Lake Placid,Skating,Figure skating,GBR,individual,M,Gold
+1980,Lake Placid,Biathlon,Biathlon,GDR,10km,M,Gold
+1980,Lake Placid,Biathlon,Biathlon,GDR,20km,M,Bronze
+1980,Lake Placid,Biathlon,Biathlon,GDR,20km,M,Silver
+1980,Lake Placid,Biathlon,Biathlon,GDR,4x7.5km relay,M,Silver
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,four-man,M,Bronze
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,four-man,M,Gold
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,two-man,M,Bronze
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver
+1980,Lake Placid,Luge,Luge,GDR,doubles,X,Gold
+1980,Lake Placid,Luge,Luge,GDR,singles,M,Gold
+1980,Lake Placid,Luge,Luge,GDR,singles,W,Silver
+1980,Lake Placid,Skating,Figure skating,GDR,individual,M,Silver
+1980,Lake Placid,Skating,Figure skating,GDR,individual,W,Gold
+1980,Lake Placid,Skating,Figure skating,GDR,pairs,X,Bronze
+1980,Lake Placid,Skating,Speed skating,GDR,1000m,W,Bronze
+1980,Lake Placid,Skating,Speed skating,GDR,1500m,W,Bronze
+1980,Lake Placid,Skating,Speed skating,GDR,3000m,W,Silver
+1980,Lake Placid,Skating,Speed skating,GDR,500m,W,Gold
+1980,Lake Placid,Skiing,Cross Country S,GDR,10km,W,Gold
+1980,Lake Placid,Skiing,Cross Country S,GDR,4x5km relay,W,Gold
+1980,Lake Placid,Skiing,Nordic Combined,GDR,individual,M,Bronze
+1980,Lake Placid,Skiing,Nordic Combined,GDR,individual,M,Gold
+1980,Lake Placid,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Silver
+1980,Lake Placid,Skating,Figure skating,HUN,ice dancing,X,Silver
+1980,Lake Placid,Luge,Luge,ITA,doubles,X,Silver
+1980,Lake Placid,Luge,Luge,ITA,singles,M,Silver
+1980,Lake Placid,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,downhill,W,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,giant slalom,M,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,giant slalom,W,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,slalom,W,Gold
+1980,Lake Placid,Skating,Speed skating,NED,10000m,M,Silver
+1980,Lake Placid,Skating,Speed skating,NED,1500m,W,Gold
+1980,Lake Placid,Skating,Speed skating,NED,1500m,W,Silver
+1980,Lake Placid,Skating,Speed skating,NED,500m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,NOR,10000m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,NOR,1000m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,NOR,1500m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,NOR,1500m,M,Silver
+1980,Lake Placid,Skating,Speed skating,NOR,3000m,W,Gold
+1980,Lake Placid,Skating,Speed skating,NOR,5000m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,NOR,5000m,M,Silver
+1980,Lake Placid,Skiing,Cross Country S,NOR,15km,M,Bronze
+1980,Lake Placid,Skiing,Cross Country S,NOR,4x10km relay,M,Silver
+1980,Lake Placid,Skiing,Cross Country S,NOR,4x5km relay,W,Bronze
+1980,Lake Placid,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver
+1980,Lake Placid,Bobsleigh,Bobsleigh,SUI,two-man,M,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,downhill,W,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,slalom,M,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,slalom,W,Bronze
+1980,Lake Placid,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,SWE,giant slalom,M,Gold
+1980,Lake Placid,Skiing,Alpine Skiing,SWE,slalom,M,Gold
+1980,Lake Placid,Skiing,Cross Country S,SWE,15km,M,Gold
+1980,Lake Placid,Skiing,Cross Country S,TCH,5km,W,Bronze
+1980,Lake Placid,Biathlon,Biathlon,URS,10km,M,Bronze
+1980,Lake Placid,Biathlon,Biathlon,URS,10km,M,Silver
+1980,Lake Placid,Biathlon,Biathlon,URS,20km,M,Gold
+1980,Lake Placid,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold
+1980,Lake Placid,Ice Hockey,Ice Hockey,URS,ice hockey,M,Silver
+1980,Lake Placid,Luge,Luge,URS,singles,W,Bronze
+1980,Lake Placid,Luge,Luge,URS,singles,W,Gold
+1980,Lake Placid,Skating,Figure skating,URS,ice dancing,X,Bronze
+1980,Lake Placid,Skating,Figure skating,URS,ice dancing,X,Gold
+1980,Lake Placid,Skating,Figure skating,URS,pairs,X,Gold
+1980,Lake Placid,Skating,Figure skating,URS,pairs,X,Silver
+1980,Lake Placid,Skating,Speed skating,URS,1000m,M,Bronze
+1980,Lake Placid,Skating,Speed skating,URS,1000m,W,Gold
+1980,Lake Placid,Skating,Speed skating,URS,500m,M,Silver
+1980,Lake Placid,Skating,Speed skating,URS,500m,W,Bronze
+1980,Lake Placid,Skiing,Cross Country S,URS,30km mass start,M,Gold
+1980,Lake Placid,Skiing,Cross Country S,URS,30km mass start,M,Silver
+1980,Lake Placid,Skiing,Cross Country S,URS,4x10km relay,M,Gold
+1980,Lake Placid,Skiing,Cross Country S,URS,4x5km relay,W,Silver
+1980,Lake Placid,Skiing,Cross Country S,URS,50km,M,Bronze
+1980,Lake Placid,Skiing,Cross Country S,URS,50km,M,Gold
+1980,Lake Placid,Skiing,Cross Country S,URS,5km,W,Gold
+1980,Lake Placid,Ice Hockey,Ice Hockey,USA,ice hockey,M,Gold
+1980,Lake Placid,Skating,Figure skating,USA,individual,M,Bronze
+1980,Lake Placid,Skating,Figure skating,USA,individual,W,Silver
+1980,Lake Placid,Skating,Speed skating,USA,10000m,M,Gold
+1980,Lake Placid,Skating,Speed skating,USA,1000m,M,Gold
+1980,Lake Placid,Skating,Speed skating,USA,1000m,W,Silver
+1980,Lake Placid,Skating,Speed skating,USA,1500m,M,Gold
+1980,Lake Placid,Skating,Speed skating,USA,3000m,W,Bronze
+1980,Lake Placid,Skating,Speed skating,USA,5000m,M,Gold
+1980,Lake Placid,Skating,Speed skating,USA,500m,M,Gold
+1980,Lake Placid,Skating,Speed skating,USA,500m,W,Silver
+1980,Lake Placid,Skiing,Alpine Skiing,USA,slalom,M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,AUT,downhill,M,Bronze
+1984,Sarajevo,Skating,Figure skating,CAN,individual,M,Silver
+1984,Sarajevo,Skating,Speed skating,CAN,1000m,M,Gold
+1984,Sarajevo,Skating,Speed skating,CAN,1500m,M,Gold
+1984,Sarajevo,Skating,Speed skating,CAN,500m,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,FIN,10km,W,Gold
+1984,Sarajevo,Skiing,Cross Country S,FIN,15km,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,FIN,15km,M,Silver
+1984,Sarajevo,Skiing,Cross Country S,FIN,20km,W,Gold
+1984,Sarajevo,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,FIN,4x5km relay,W,Bronze
+1984,Sarajevo,Skiing,Cross Country S,FIN,50km,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,FIN,5km,W,Gold
+1984,Sarajevo,Skiing,Nordic Combined,FIN,individual,M,Bronze
+1984,Sarajevo,Skiing,Nordic Combined,FIN,individual,M,Silver
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Bronze
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,giant slalom,W,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,slalom,M,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,slalom,W,Silver
+1984,Sarajevo,Biathlon,Biathlon,FRG,10km,M,Silver
+1984,Sarajevo,Biathlon,Biathlon,FRG,20km,M,Gold
+1984,Sarajevo,Biathlon,Biathlon,FRG,4x7.5km relay,M,Bronze
+1984,Sarajevo,Luge,Luge,FRG,doubles,X,Gold
+1984,Sarajevo,Skating,Figure skating,GBR,ice dancing,X,Gold
+1984,Sarajevo,Biathlon,Biathlon,GDR,10km,M,Bronze
+1984,Sarajevo,Biathlon,Biathlon,GDR,20km,M,Silver
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,four-man,M,Gold
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,four-man,M,Silver
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,two-man,M,Gold
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver
+1984,Sarajevo,Luge,Luge,GDR,doubles,X,Bronze
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Bronze
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Gold
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Silver
+1984,Sarajevo,Skating,Figure skating,GDR,individual,W,Gold
+1984,Sarajevo,Skating,Speed skating,GDR,10000m,M,Bronze
+1984,Sarajevo,Skating,Speed skating,GDR,1000m,W,Gold
+1984,Sarajevo,Skating,Speed skating,GDR,1000m,W,Silver
+1984,Sarajevo,Skating,Speed skating,GDR,1500m,W,Gold
+1984,Sarajevo,Skating,Speed skating,GDR,1500m,W,Silver
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Bronze
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Gold
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Silver
+1984,Sarajevo,Skating,Speed skating,GDR,5000m,M,Bronze
+1984,Sarajevo,Skating,Speed skating,GDR,500m,W,Gold
+1984,Sarajevo,Skating,Speed skating,GDR,500m,W,Silver
+1984,Sarajevo,Skiing,Ski Jumping,GDR,K120 individual (90m),M,Silver
+1984,Sarajevo,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Gold
+1984,Sarajevo,Luge,Luge,ITA,singles,M,Gold
+1984,Sarajevo,Skiing,Alpine Skiing,ITA,slalom,W,Gold
+1984,Sarajevo,Skating,Speed skating,JPN,500m,M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,LIE,giant slalom,M,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing,LIE,slalom,W,Bronze
+1984,Sarajevo,Biathlon,Biathlon,NOR,10km,M,Gold
+1984,Sarajevo,Biathlon,Biathlon,NOR,20km,M,Bronze
+1984,Sarajevo,Biathlon,Biathlon,NOR,4x7.5km relay,M,Silver
+1984,Sarajevo,Skating,Speed skating,NOR,1000m,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,NOR,10km,W,Bronze
+1984,Sarajevo,Skiing,Cross Country S,NOR,20km,W,Bronze
+1984,Sarajevo,Skiing,Cross Country S,NOR,4x5km relay,W,Gold
+1984,Sarajevo,Skiing,Cross Country S,NOR,5km,W,Silver
+1984,Sarajevo,Skiing,Nordic Combined,NOR,individual,M,Gold
+1984,Sarajevo,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,W,Gold
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,W,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,giant slalom,M,Gold
+1984,Sarajevo,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze
+1984,Sarajevo,Skating,Speed skating,SWE,10000m,M,Silver
+1984,Sarajevo,Skating,Speed skating,SWE,5000m,M,Gold
+1984,Sarajevo,Skiing,Cross Country S,SWE,15km,M,Gold
+1984,Sarajevo,Skiing,Cross Country S,SWE,30km mass start,M,Bronze
+1984,Sarajevo,Skiing,Cross Country S,SWE,4x10km relay,M,Gold
+1984,Sarajevo,Skiing,Cross Country S,SWE,50km,M,Gold
+1984,Sarajevo,Skiing,Cross Country S,SWE,50km,M,Silver
+1984,Sarajevo,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Silver
+1984,Sarajevo,Skating,Figure skating,TCH,individual,M,Bronze
+1984,Sarajevo,Skiing,Alpine Skiing,TCH,downhill,W,Bronze
+1984,Sarajevo,Skiing,Cross Country S,TCH,4x5km relay,W,Silver
+1984,Sarajevo,Skiing,Cross Country S,TCH,5km,W,Bronze
+1984,Sarajevo,Skiing,Ski Jumping,TCH,K120 individual (90m),M,Bronze
+1984,Sarajevo,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold
+1984,Sarajevo,Bobsleigh,Bobsleigh,URS,two-man,M,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold
+1984,Sarajevo,Luge,Luge,URS,doubles,X,Silver
+1984,Sarajevo,Luge,Luge,URS,singles,M,Bronze
+1984,Sarajevo,Luge,Luge,URS,singles,M,Silver
+1984,Sarajevo,Skating,Figure skating,URS,ice dancing,X,Bronze
+1984,Sarajevo,Skating,Figure skating,URS,ice dancing,X,Silver
+1984,Sarajevo,Skating,Figure skating,URS,individual,W,Bronze
+1984,Sarajevo,Skating,Figure skating,URS,pairs,X,Bronze
+1984,Sarajevo,Skating,Figure skating,URS,pairs,X,Gold
+1984,Sarajevo,Skating,Speed skating,URS,10000m,M,Gold
+1984,Sarajevo,Skating,Speed skating,URS,1000m,M,Silver
+1984,Sarajevo,Skating,Speed skating,URS,1000m,W,Bronze
+1984,Sarajevo,Skating,Speed skating,URS,1500m,M,Bronze
+1984,Sarajevo,Skating,Speed skating,URS,1500m,M,Silver
+1984,Sarajevo,Skating,Speed skating,URS,1500m,W,Bronze
+1984,Sarajevo,Skating,Speed skating,URS,5000m,M,Silver
+1984,Sarajevo,Skating,Speed skating,URS,500m,M,Gold
+1984,Sarajevo,Skating,Speed skating,URS,500m,W,Bronze
+1984,Sarajevo,Skiing,Cross Country S,URS,10km,W,Silver
+1984,Sarajevo,Skiing,Cross Country S,URS,20km,W,Silver
+1984,Sarajevo,Skiing,Cross Country S,URS,30km mass start,M,Gold
+1984,Sarajevo,Skiing,Cross Country S,URS,30km mass start,M,Silver
+1984,Sarajevo,Skiing,Cross Country S,URS,4x10km relay,M,Silver
+1984,Sarajevo,Skating,Figure skating,USA,individual,M,Gold
+1984,Sarajevo,Skating,Figure skating,USA,individual,W,Silver
+1984,Sarajevo,Skating,Figure skating,USA,pairs,X,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,USA,downhill,M,Gold
+1984,Sarajevo,Skiing,Alpine Skiing,USA,giant slalom,W,Gold
+1984,Sarajevo,Skiing,Alpine Skiing,USA,giant slalom,W,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,USA,slalom,M,Gold
+1984,Sarajevo,Skiing,Alpine Skiing,USA,slalom,M,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,YUG,giant slalom,M,Silver
+1988,Calgary,Skating,Speed skating,AUT,10000m,M,Silver
+1988,Calgary,Skating,Speed skating,AUT,1500m,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,M,Gold
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,W,Gold
+1988,Calgary,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,AUT,super-G,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,AUT,super-G,W,Gold
+1988,Calgary,Skiing,Nordic Combined,AUT,individual,M,Silver
+1988,Calgary,Skiing,Nordic Combined,AUT,Team,M,Bronze
+1988,Calgary,Skating,Figure skating,CAN,ice dancing,X,Bronze
+1988,Calgary,Skating,Figure skating,CAN,individual,M,Silver
+1988,Calgary,Skating,Figure skating,CAN,individual,W,Silver
+1988,Calgary,Skiing,Alpine Skiing,CAN,downhill,W,Bronze
+1988,Calgary,Skiing,Alpine Skiing,CAN,super-G,W,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,FIN,ice hockey,M,Silver
+1988,Calgary,Skiing,Cross Country S,FIN,10km,W,Bronze
+1988,Calgary,Skiing,Cross Country S,FIN,4x5km relay,W,Bronze
+1988,Calgary,Skiing,Cross Country S,FIN,5km,W,Gold
+1988,Calgary,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold
+1988,Calgary,Skiing,Ski Jumping,FIN,K120 team (90m),M,Gold
+1988,Calgary,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Gold
+1988,Calgary,Skiing,Alpine Skiing,FRA,downhill,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,FRA,super-G,M,Gold
+1988,Calgary,Biathlon,Biathlon,FRG,4x7.5km relay,M,Silver
+1988,Calgary,Luge,Luge,FRG,doubles,X,Bronze
+1988,Calgary,Luge,Luge,FRG,singles,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,FRG,downhill,W,Gold
+1988,Calgary,Skiing,Alpine Skiing,FRG,giant slalom,W,Silver
+1988,Calgary,Skiing,Alpine Skiing,FRG,slalom,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,FRG,slalom,W,Bronze
+1988,Calgary,Skiing,Nordic Combined,FRG,Team,M,Gold
+1988,Calgary,Biathlon,Biathlon,GDR,10km,M,Gold
+1988,Calgary,Biathlon,Biathlon,GDR,20km,M,Gold
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,four-man,M,Silver
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,two-man,M,Bronze
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver
+1988,Calgary,Luge,Luge,GDR,doubles,X,Gold
+1988,Calgary,Luge,Luge,GDR,doubles,X,Silver
+1988,Calgary,Luge,Luge,GDR,singles,M,Gold
+1988,Calgary,Luge,Luge,GDR,singles,W,Bronze
+1988,Calgary,Luge,Luge,GDR,singles,W,Gold
+1988,Calgary,Luge,Luge,GDR,singles,W,Silver
+1988,Calgary,Skating,Figure skating,GDR,individual,W,Gold
+1988,Calgary,Skating,Speed skating,GDR,1000m,M,Silver
+1988,Calgary,Skating,Speed skating,GDR,1000m,W,Gold
+1988,Calgary,Skating,Speed skating,GDR,1000m,W,Silver
+1988,Calgary,Skating,Speed skating,GDR,1500m,M,Gold
+1988,Calgary,Skating,Speed skating,GDR,1500m,W,Bronze
+1988,Calgary,Skating,Speed skating,GDR,1500m,W,Silver
+1988,Calgary,Skating,Speed skating,GDR,3000m,W,Bronze
+1988,Calgary,Skating,Speed skating,GDR,3000m,W,Silver
+1988,Calgary,Skating,Speed skating,GDR,5000m,W,Bronze
+1988,Calgary,Skating,Speed skating,GDR,5000m,W,Silver
+1988,Calgary,Skating,Speed skating,GDR,500m,M,Gold
+1988,Calgary,Skating,Speed skating,GDR,500m,W,Bronze
+1988,Calgary,Skating,Speed skating,GDR,500m,W,Silver
+1988,Calgary,Biathlon,Biathlon,ITA,20km,M,Bronze
+1988,Calgary,Biathlon,Biathlon,ITA,4x7.5km relay,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,ITA,giant slalom,M,Gold
+1988,Calgary,Skiing,Alpine Skiing,ITA,slalom,M,Gold
+1988,Calgary,Skiing,Cross Country S,ITA,50km,M,Silver
+1988,Calgary,Skating,Speed skating,JPN,500m,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,LIE,slalom,M,Bronze
+1988,Calgary,Skating,Speed skating,NED,10000m,M,Bronze
+1988,Calgary,Skating,Speed skating,NED,1500m,W,Gold
+1988,Calgary,Skating,Speed skating,NED,3000m,W,Gold
+1988,Calgary,Skating,Speed skating,NED,5000m,M,Bronze
+1988,Calgary,Skating,Speed skating,NED,5000m,M,Silver
+1988,Calgary,Skating,Speed skating,NED,5000m,W,Gold
+1988,Calgary,Skating,Speed skating,NED,500m,M,Silver
+1988,Calgary,Skiing,Cross Country S,NOR,15km,M,Silver
+1988,Calgary,Skiing,Cross Country S,NOR,30km mass start,M,Bronze
+1988,Calgary,Skiing,Cross Country S,NOR,4x5km relay,W,Silver
+1988,Calgary,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Silver
+1988,Calgary,Skiing,Ski Jumping,NOR,K120 team (90m),M,Bronze
+1988,Calgary,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,W,Bronze
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,W,Silver
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,M,Gold
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,M,Silver
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,W,Silver
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,M,Bronze
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,W,Bronze
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,W,Gold
+1988,Calgary,Skiing,Alpine Skiing,SUI,slalom,W,Gold
+1988,Calgary,Skiing,Alpine Skiing,SUI,super-G,W,Silver
+1988,Calgary,Skiing,Cross Country S,SUI,50km,M,Bronze
+1988,Calgary,Skiing,Nordic Combined,SUI,individual,M,Gold
+1988,Calgary,Skiing,Nordic Combined,SUI,Team,M,Silver
+1988,Calgary,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze
+1988,Calgary,Skating,Speed skating,SWE,10000m,M,Gold
+1988,Calgary,Skating,Speed skating,SWE,5000m,M,Gold
+1988,Calgary,Skiing,Alpine Skiing,SWE,super-G,M,Bronze
+1988,Calgary,Skiing,Cross Country S,SWE,4x10km relay,M,Gold
+1988,Calgary,Skiing,Cross Country S,SWE,50km,M,Gold
+1988,Calgary,Skiing,Cross Country S,TCH,4x10km relay,M,Bronze
+1988,Calgary,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Bronze
+1988,Calgary,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Silver
+1988,Calgary,Biathlon,Biathlon,URS,10km,M,Bronze
+1988,Calgary,Biathlon,Biathlon,URS,10km,M,Silver
+1988,Calgary,Biathlon,Biathlon,URS,20km,M,Silver
+1988,Calgary,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold
+1988,Calgary,Bobsleigh,Bobsleigh,URS,four-man,M,Bronze
+1988,Calgary,Bobsleigh,Bobsleigh,URS,two-man,M,Gold
+1988,Calgary,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold
+1988,Calgary,Luge,Luge,URS,singles,M,Bronze
+1988,Calgary,Skating,Figure skating,URS,ice dancing,X,Gold
+1988,Calgary,Skating,Figure skating,URS,ice dancing,X,Silver
+1988,Calgary,Skating,Figure skating,URS,individual,M,Bronze
+1988,Calgary,Skating,Figure skating,URS,pairs,X,Gold
+1988,Calgary,Skating,Figure skating,URS,pairs,X,Silver
+1988,Calgary,Skating,Speed skating,URS,1000m,M,Bronze
+1988,Calgary,Skating,Speed skating,URS,1000m,M,Gold
+1988,Calgary,Skiing,Cross Country S,URS,10km,W,Gold
+1988,Calgary,Skiing,Cross Country S,URS,10km,W,Silver
+1988,Calgary,Skiing,Cross Country S,URS,15km,M,Bronze
+1988,Calgary,Skiing,Cross Country S,URS,15km,M,Gold
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Bronze
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Gold
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Silver
+1988,Calgary,Skiing,Cross Country S,URS,30km mass start,M,Gold
+1988,Calgary,Skiing,Cross Country S,URS,30km mass start,M,Silver
+1988,Calgary,Skiing,Cross Country S,URS,4x10km relay,M,Silver
+1988,Calgary,Skiing,Cross Country S,URS,4x5km relay,W,Gold
+1988,Calgary,Skiing,Cross Country S,URS,5km,W,Bronze
+1988,Calgary,Skiing,Cross Country S,URS,5km,W,Silver
+1988,Calgary,Skiing,Nordic Combined,URS,individual,M,Bronze
+1988,Calgary,Skating,Figure skating,USA,individual,M,Gold
+1988,Calgary,Skating,Figure skating,USA,individual,W,Bronze
+1988,Calgary,Skating,Figure skating,USA,pairs,X,Bronze
+1988,Calgary,Skating,Speed skating,USA,1000m,W,Bronze
+1988,Calgary,Skating,Speed skating,USA,1500m,M,Silver
+1988,Calgary,Skating,Speed skating,USA,500m,W,Gold
+1988,Calgary,Skiing,Alpine Skiing,YUG,slalom,W,Silver
+1988,Calgary,Skiing,Ski Jumping,YUG,K120 individual (90m),M,Bronze
+1988,Calgary,Skiing,Ski Jumping,YUG,K120 team (90m),M,Silver
