@@ -1,0 +1,92 @@
+Year,City,Sport,Discipline,NOC,Event,Gender,Medal
+1924,Chamonix,Skating,Figure skating,AUT,individual,M,Silver
+1924,Chamonix,Skating,Figure skating,AUT,individual,W,Gold
+1924,Chamonix,Skating,Figure skating,AUT,pairs,X,Gold
+1924,Chamonix,Bobsleigh,Bobsleigh,BEL,four-man,M,Bronze
+1924,Chamonix,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold
+1924,Chamonix,Biathlon,Biathlon,FIN,military patrol,M,Silver
+1924,Chamonix,Skating,Figure skating,FIN,pairs,X,Silver
+1924,Chamonix,Skating,Speed skating,FIN,10000m,M,Gold
+1924,Chamonix,Skating,Speed skating,FIN,10000m,M,Silver
+1924,Chamonix,Skating,Speed skating,FIN,1500m,M,Gold
+1924,Chamonix,Skating,Speed skating,FIN,5000m,M,Gold
+1924,Chamonix,Skating,Speed skating,FIN,5000m,M,Silver
+1924,Chamonix,Skating,Speed skating,FIN,500m,M,Bronze
+1924,Chamonix,Skating,Speed skating,FIN,combined (4 events),M,Bronze
+1924,Chamonix,Skating,Speed skating,FIN,combined (4 events),M,Gold
+1924,Chamonix,Skiing,Cross Country S,FIN,18km,M,Bronze
+1924,Chamonix,Biathlon,Biathlon,FRA,military patrol,M,Bronze
+1924,Chamonix,Curling,Curling,FRA,curling,M,Bronze
+1924,Chamonix,Skating,Figure skating,FRA,pairs,X,Bronze
+1924,Chamonix,Bobsleigh,Bobsleigh,GBR,four-man,M,Silver
+1924,Chamonix,Curling,Curling,GBR,curling,M,Gold
+1924,Chamonix,Ice Hockey,Ice Hockey,GBR,ice hockey,M,Bronze
+1924,Chamonix,Skating,Figure skating,GBR,individual,W,Bronze
+1924,Chamonix,Skating,Speed skating,NOR,10000m,M,Bronze
+1924,Chamonix,Skating,Speed skating,NOR,1500m,M,Bronze
+1924,Chamonix,Skating,Speed skating,NOR,1500m,M,Silver
+1924,Chamonix,Skating,Speed skating,NOR,5000m,M,Bronze
+1924,Chamonix,Skating,Speed skating,NOR,500m,M,Bronze
+1924,Chamonix,Skating,Speed skating,NOR,500m,M,Silver
+1924,Chamonix,Skating,Speed skating,NOR,combined (4 events),M,Silver
+1924,Chamonix,Skiing,Cross Country S,NOR,18km,M,Gold
+1924,Chamonix,Skiing,Cross Country S,NOR,18km,M,Silver
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Bronze
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Gold
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Silver
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Bronze
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Gold
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Silver
+1924,Chamonix,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold
+1924,Chamonix,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver
+1924,Chamonix,Biathlon,Biathlon,SUI,military patrol,M,Gold
+1924,Chamonix,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold
+1924,Chamonix,Skating,Figure skating,SUI,individual,M,Bronze
+1924,Chamonix,Curling,Curling,SWE,curling,M,Silver
+1924,Chamonix,Skating,Figure skating,SWE,individual,M,Gold
+1924,Chamonix,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver
+1924,Chamonix,Skating,Figure skating,USA,individual,W,Silver
+1924,Chamonix,Skating,Speed skating,USA,500m,M,Gold
+1924,Chamonix,Skiing,Ski Jumping,USA,K90 individual (70m),M,Bronze
+1928,St. Moritz,Skating,Figure skating,AUT,individual,M,Silver
+1928,St. Moritz,Skating,Figure skating,AUT,individual,W,Silver
+1928,St. Moritz,Skating,Figure skating,AUT,pairs,X,Bronze
+1928,St. Moritz,Skating,Figure skating,AUT,pairs,X,Silver
+1928,St. Moritz,Skating,Figure skating,BEL,individual,M,Bronze
+1928,St. Moritz,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold
+1928,St. Moritz,Skating,Speed skating,FIN,1500m,M,Gold
+1928,St. Moritz,Skating,Speed skating,FIN,5000m,M,Silver
+1928,St. Moritz,Skating,Speed skating,FIN,500m,M,Bronze
+1928,St. Moritz,Skating,Speed skating,FIN,500m,M,Gold
+1928,St. Moritz,Skating,Figure skating,FRA,pairs,X,Gold
+1928,St. Moritz,Bobsleigh,Skeleton,GBR,individual,M,Bronze
+1928,St. Moritz,Bobsleigh,Bobsleigh,GER,five-man,M,Bronze
+1928,St. Moritz,Skating,Figure skating,NOR,individual,W,Gold
+1928,St. Moritz,Skating,Speed skating,NOR,1500m,M,Bronze
+1928,St. Moritz,Skating,Speed skating,NOR,1500m,M,Silver
+1928,St. Moritz,Skating,Speed skating,NOR,5000m,M,Bronze
+1928,St. Moritz,Skating,Speed skating,NOR,5000m,M,Gold
+1928,St. Moritz,Skating,Speed skating,NOR,500m,M,Bronze
+1928,St. Moritz,Skating,Speed skating,NOR,500m,M,Gold
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Bronze
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Gold
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Silver
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Bronze
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Gold
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Silver
+1928,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold
+1928,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver
+1928,St. Moritz,Ice Hockey,Ice Hockey,SUI,ice hockey,M,Bronze
+1928,St. Moritz,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Silver
+1928,St. Moritz,Skating,Figure skating,SWE,individual,M,Gold
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Bronze
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Gold
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Silver
+1928,St. Moritz,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Bronze
+1928,St. Moritz,Bobsleigh,Bobsleigh,USA,five-man,M,Gold
+1928,St. Moritz,Bobsleigh,Bobsleigh,USA,five-man,M,Silver
+1928,St. Moritz,Bobsleigh,Skeleton,USA,individual,M,Gold
+1928,St. Moritz,Bobsleigh,Skeleton,USA,individual,M,Silver
+1928,St. Moritz,Skating,Figure skating,USA,individual,W,Bronze
+1928,St. Moritz,Skating,Speed skating,USA,500m,M,Bronze
+1932,Lake Placid,Skating,Figure skating,AUT,individual,M,Gold
