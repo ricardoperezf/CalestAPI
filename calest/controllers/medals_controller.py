@@ -56,8 +56,8 @@ def get_discipline_sport():
         vector.append({
             'year': medals["year"],
             for medals in cursor:
-                print(medals)
-                vector.append({
+        print(medals)
+        vector.append({
             'sport': medals["sport"]
         })
         })
