@@ -65,13 +65,9 @@ def get_discipline_discipline():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-         print(medals)
-         vector.append({
-            'year': medals["year"]
-            print(medals)
-            vector.append({
+        print(medals)
+        vector.append({
             'discipline': medals["discipline"]
-        })
         })
     return jsonify(vector)
 
@@ -82,14 +78,9 @@ def get_discipline_medal():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-        print(medals)
          print(medals)
-         vector.append({
-            'year': medals["year"]
-            print(medals)
-            vector.append({
+        vector.append({
             'medal': medals["medal"]
-        })
         })
     return jsonify(vector)
 
@@ -100,13 +91,9 @@ def get_discipline_city():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-        print(medals)
-         vector.append({
-            'year': medals["year"]
-            print(medals)
-            vector.append({
+       print(medals)
+        vector.append({
             'city': medals["city"]
-        })
         })
     return jsonify(vector)
 
@@ -119,11 +106,7 @@ def get_discipline_country():
     for medals in cursor:
         print(medals)
         vector.append({
-            'year': medals["year"]
-            print(medals)
-            vector.append({
             'country': medals["country"]
-        })
         })
     return jsonify(vector)
 
@@ -136,10 +119,6 @@ def get_discipline_gender():
     for medals in cursor:
         print(medals)
         vector.append({
-            'year': medals["year"]
-            print(medals)
-            vector.append({
             'gender': medals["gender"]
-        })
         })
     return jsonify(vector)
