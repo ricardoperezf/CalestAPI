@@ -78,7 +78,7 @@ def get_discipline_medal():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-         print(medals)
+        print(medals)
         vector.append({
             'medal': medals["medal"]
         })
@@ -92,7 +92,7 @@ def get_discipline_city():
     vector = []
     for medals in cursor:
        print(medals)
-        vector.append({
+       vector.append({
             'city': medals["city"]
         })
     return jsonify(vector)
