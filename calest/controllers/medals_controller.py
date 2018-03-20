@@ -54,7 +54,6 @@ def get_discipline_sport():
     for medals in cursor:
         print(medals)
         vector.append({
-            'year': medals["year"],
             'sport': medals["sport"]
         })
     return jsonify(vector)
