@@ -5,7 +5,7 @@ from flask_cors import CORS
 import pymongo as pymongo
 
 calest_app = Flask(__name__)
-uri = "mongodb://registro:Ee5gUsZ8xwwgkJpBM6eMfBnRxsgp3ckTIRLcsaqofX0H71yvu405yW4zr83eF3119qBeU5VKPo1hsJ9WRLK6MQ==@registro.documents.azure.com:10255/?ssl=true&replicaSet=globaldb"
+uri = "mongodb://grupocosmosdb:Mbz2KwKHE8UBlSTrY8cDor7N7zWxHHjDxpbGjliuBwWNzGx5w5H862Z5H2kTnDDb9tR89WZa4H6cipfcS8L5Mw==@grupocosmosdb.documents.azure.com:10255/?ssl=true&replicaSet=globaldb"
 client = pymongo.MongoClient(uri)
 
 from calest.controllers import *
