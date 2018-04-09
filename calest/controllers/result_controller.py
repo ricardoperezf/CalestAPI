@@ -17,6 +17,7 @@ def post_discipline():
     country_result = Medal(csv_file).get_medals_country()
     medals_result = Medal(csv_file).get_medals_by_medals()
     sport_result = Medal(csv_file).get_medals_by_sport()
+    print(discipline_result, "\n", gender_result, "\n", city_result, "\n")
     cursor = collection.insert({
         "discipline": discipline_result,
         "gender": gender_result,
@@ -27,14 +28,15 @@ def post_discipline():
     })
     return jsonify("Added"), 201
 
-#obtiene todo
+
+# obtiene todo
 
 @calest_app.route('/result', methods=["GET"])
 def get_discipline():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-        print(medals)
+        #print(medals)
         vector.append({
             'sport': medals["sport"],
             'discipline': medals["discipline"],
@@ -45,7 +47,8 @@ def get_discipline():
         })
     return jsonify(vector)
 
-#obtiene medallas por deporte
+
+# obtiene medallas por deporte
 
 @calest_app.route('/sport', methods=["GET"])
 def get_discipline_sport():
@@ -58,7 +61,8 @@ def get_discipline_sport():
         })
     return jsonify(vector)
 
-#obtiene medallas por disciplina
+
+# obtiene medallas por disciplina
 
 @calest_app.route('/discipline', methods=["GET"])
 def get_discipline_discipline():
@@ -71,7 +75,8 @@ def get_discipline_discipline():
         })
     return jsonify(vector)
 
-#obtiene medallas por medallas
+
+# obtiene medallas por medallas
 
 @calest_app.route('/medal', methods=["GET"])
 def get_discipline_medal():
@@ -84,20 +89,22 @@ def get_discipline_medal():
         })
     return jsonify(vector)
 
-#obtiene medallas por ciudad
+
+# obtiene medallas por ciudad
 
 @calest_app.route('/city', methods=["GET"])
 def get_discipline_city():
     cursor = collection.find()
     vector = []
     for medals in cursor:
-       print(medals)
-       vector.append({
+        print(medals)
+        vector.append({
             'city': medals["city"]
         })
     return jsonify(vector)
 
-#obtiene medallas por pais
+
+# obtiene medallas por pais
 
 @calest_app.route('/country', methods=["GET"])
 def get_discipline_country():
@@ -110,7 +117,8 @@ def get_discipline_country():
         })
     return jsonify(vector)
 
-#obtiene medallas por genero
+
+# obtiene medallas por genero
 
 @calest_app.route('/gender', methods=["GET"])
 def get_discipline_gender():
