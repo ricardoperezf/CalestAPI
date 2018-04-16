@@ -17,7 +17,6 @@ def post_discipline():
     country_result = Medal(csv_file).get_medals_country()
     medals_result = Medal(csv_file).get_medals_by_medals()
     sport_result = Medal(csv_file).get_medals_by_sport()
-    print(discipline_result, "\n", gender_result, "\n", city_result, "\n")
     cursor = collection.insert({
         "discipline": discipline_result,
         "gender": gender_result,
