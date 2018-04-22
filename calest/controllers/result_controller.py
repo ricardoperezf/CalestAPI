@@ -7,6 +7,7 @@ db = client.estadisticas
 collection = db.medallas
 
 
+
 @calest_app.route('/result', methods=["POST"])
 def post_discipline():
     csv_received = request.files['csvFile']
