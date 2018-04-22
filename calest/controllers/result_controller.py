@@ -7,9 +7,10 @@ db = client.estadisticas
 collection = db.medallas
 
 
+
 @calest_app.route('/result', methods=["POST"])
 def post_discipline():
-    csv_received = request.files['file']
+    csv_received = request.files['csvFile']
     csv_file = pandas.read_csv(csv_received)
     discipline_result = Medal(csv_file).get_medals_discipline()
     gender_result = Medal(csv_file).get_medals_gender()
@@ -17,15 +18,19 @@ def post_discipline():
     country_result = Medal(csv_file).get_medals_country()
     medals_result = Medal(csv_file).get_medals_by_medals()
     sport_result = Medal(csv_file).get_medals_by_sport()
-    cursor = collection.insert({
-        "discipline": discipline_result,
-        "gender": gender_result,
-        "city": city_result,
-        "country": country_result,
-        "medal": medals_result,
-        "sport": sport_result
-    })
-    return jsonify("Added"), 201
+    print(discipline_result, "\n", gender_result, "\n", city_result, "\n")
+    try:
+        cursor = collection.insert({
+            "discipline": discipline_result,
+            "gender": gender_result,
+            "city": city_result,
+            "country": country_result,
+            "medal": medals_result,
+            "sport": sport_result
+        })
+        return jsonify("Added"), 201
+    except:
+        return jsonify("No se puede conectar a la base de datos"), 201
 
 
 # obtiene todo
